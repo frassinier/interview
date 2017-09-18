@@ -1,0 +1,62 @@
+[
+  {
+    "name": "iPhone 7 Plus",
+    "brand": 3
+  },
+  {
+    "name": "Galaxy A3 2017",
+    "brand": 1
+  },
+  {
+    "name": "iPhone 5s",
+    "brand": 3
+  },
+  {
+    "name": "iPhone 6s",
+    "brand": 3
+  },
+  {
+    "name": "iPhone 7",
+    "brand": 3
+  },
+  {
+    "name": "Galaxy A3 2016",
+    "brand": 1
+  },
+  {
+    "name": "iPhone 6s Plus",
+    "brand": 3
+  },
+  {
+    "name": "iPhone SE",
+    "brand": 3
+  },
+  {
+    "name": "Galaxy S7",
+    "brand": 1
+  },
+  {
+    "name": "Galaxy S7 edge",
+    "brand": 1
+  },
+  {
+    "name": "Galaxy A5 2017",
+    "brand": 1
+  },
+  {
+    "name": "Galaxy S6 edge",
+    "brand": 1
+  },
+  {
+    "name": "Galaxy J3",
+    "brand": 1
+  },
+  {
+    "name": "Galaxy A5 2016",
+    "brand": 1
+  },
+  {
+    "name": "Moto Z",
+    "brand": 2
+  }
+]

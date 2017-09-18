@@ -1,3 +1,28 @@
 .App {
+	position: relative;
+	display: flex;
+	background: #BAD455;
+	height: auto;
+	flex-direction: column;
 	text-align: center;
+	z-index: 10000;
+}
+
+.App-header.App-header.App-header {
+	background: #222;
+	height: 138px;
+	padding: 2rem 0 20px;
+	margin-bottom: 2em;
+	color: white;
+}
+
+/* Bootstrap */
+
+dd {
+	text-align: left;
+}
+
+dt,
+dt + dd {
+	margin-top: 5rem;
 }
